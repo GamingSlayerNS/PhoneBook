@@ -1,0 +1,3 @@
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/cmake-build-debug/CMakeFiles/Project2.dir
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

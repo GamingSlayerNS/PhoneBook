@@ -1,0 +1,140 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/addUpdateCommand.cpp
+addUpdateCommand.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/addUpdateCommand.h
+
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/addUpdateCommand.h
+bookCommand.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/bookCommand.h
+phoneBook.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/phoneBook.h
+
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/assignment2.cpp
+iostream
+-
+phoneBook.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/phoneBook.h
+menuList.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/menuList.h
+addUpdateCommand.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/addUpdateCommand.h
+eraseCommand.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/eraseCommand.h
+printCommand.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/printCommand.h
+
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/bookCommand.cpp
+bookCommand.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/bookCommand.h
+iostream
+-
+
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/bookCommand.h
+iostream
+-
+command.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/command.h
+
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/command.h
+
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/decrementCommand.h
+iostream
+-
+command.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/command.h
+
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/eraseCommand.cpp
+eraseCommand.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/eraseCommand.h
+
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/eraseCommand.h
+bookCommand.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/bookCommand.h
+phoneBook.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/phoneBook.h
+
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/incrementCommand.h
+iostream
+-
+command.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/command.h
+
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/menuList.cpp
+iostream
+-
+string
+-
+menuList.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/menuList.h
+
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/menuList.h
+string
+-
+ios
+-
+vector
+-
+string
+-
+command.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/command.h
+
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/phoneBook.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+phoneBook.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/phoneBook.h
+
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/phoneBook.h
+phoneBookEntry.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/phoneBookEntry.h
+vector
+-
+string
+-
+
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/phoneBookEntry.cpp
+iostream
+-
+phoneBookEntry.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/phoneBookEntry.h
+
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/phoneBookEntry.h
+string
+-
+
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/printCommand.cpp
+printCommand.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/printCommand.h
+
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/printCommand.h
+bookCommand.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/bookCommand.h
+phoneBook.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/phoneBook.h
+
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/project2Sample.cpp
+iostream
+-
+string
+-
+incrementCommand.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/incrementCommand.h
+decrementCommand.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/decrementCommand.h
+menuList.h
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/menuList.h
+menuList.cpp
+C:/Users/SpeedyNS.SPEEDYNS/Google Drive/Documents/Programming/Project2 PhoneBook Array/menuList.cpp
+
